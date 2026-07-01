@@ -1,0 +1,6 @@
+{
+  "name": "Gaurav Joshi Portfolio",
+  "description": "A modern, responsive, and highly interactive portfolio website for Gaurav Joshi featuring an interactive terminal, high-performance particle background, and glassmorphic design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
